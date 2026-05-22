@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vedmchilimbi-arch/UTSphere/tree/main/UTSphere/UTSphere">GitHub Repository</a>
+  <a href="https://github.com/vedmchilimbi-arch/UTSphere">GitHub Repository</a>
 </p>
 
 ---
